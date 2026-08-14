@@ -10,7 +10,7 @@ Obsahuje informace o technické infrastruktuře dílny, která ovlivňuje její 
 
 | Dokument | Popis |
 |---|---|
-| `Popis-dilny.md` | Základní informace o dílně |
+[Základní informace o dílně]_{Popis-dilny.md}
 | `Elektroinstalace.md` | Elektrická infrastruktura dílny |
 | `Technicka-infrastruktura.md` | Osvětlení, stlačený vzduch a další technická infrastruktura |
 | `Vetrani.md` | Větrání a odsávání |
@@ -19,3 +19,4 @@ Obsahuje informace o technické infrastruktuře dílny, která ovlivňuje její 
 ## Poznámka
 
 Tato část neobsahuje seznam vybavení ani technologické možnosti. Ty jsou dokumentovány v samostatných částech projektu.
+[]
